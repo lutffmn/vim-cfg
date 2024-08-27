@@ -1,4 +1,4 @@
 return {
   "AstroNvim/astrocommunity",
-  { import = "astrocommunity.colorscheme.lackluster-nvim" },
+  { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
 }

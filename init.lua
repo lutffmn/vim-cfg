@@ -20,4 +20,4 @@ require "polish"
 
 
 vim.opt.shell ="/bin/fish"
-vim.cmd("colorscheme lackluster")
+vim.cmd("colorscheme monokai-pro-spectrum")
