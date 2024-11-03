@@ -11,6 +11,7 @@ return {
       "vim",
       "rust",
       "go",
+      "svelte",
       -- add more arguments for adding more treesitter parsers
     },
   },
