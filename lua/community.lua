@@ -10,5 +10,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust"},
   { import = "astrocommunity.pack.svelte"},
+  { import = "astrocommunity.pack.tailwindcss"},
+  { import = "astrocommunity.pack.typescript"},
   -- import/override with your plugins folder
 }
