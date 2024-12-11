@@ -12,5 +12,6 @@ return {
   { import = "astrocommunity.pack.svelte"},
   { import = "astrocommunity.pack.tailwindcss"},
   { import = "astrocommunity.pack.typescript"},
+  { import = "astrocommunity.pack.python-ruff"},
   -- import/override with your plugins folder
 }
